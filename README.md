@@ -1,1 +1,1 @@
-"# Dat's first Java GUI" 
+# Dat's first Java GUI
