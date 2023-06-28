@@ -1,1 +1,1 @@
-# Dat's first Java GUI
+# First Java Swing GUI
